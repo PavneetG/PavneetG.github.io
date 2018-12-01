@@ -124,7 +124,7 @@ button:focus {
       height: 2px;
       width: 100px;
       content: "";
-      background: #fff;
+      background: #e45447;
       margin-left: -50px; }
       @media (max-width: 767px) {
         .main-title h1:before {
@@ -136,7 +136,7 @@ button:focus {
       height: 10px;
       width: 10px;
       content: "";
-      background: #fff;
+      background: #e45447;
       margin-left: -5px;
       border-radius: 50%; }
       @media (max-width: 767px) {
@@ -171,7 +171,7 @@ button:focus {
   -o-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s; }
   .primary-btn:hover {
-    background: #fff;
+    background: #e45447;
     color: #fff;
     border: 2px solid transparent; }
 
@@ -264,7 +264,7 @@ button:focus {
             .header_area .navbar .nav .nav-item.submenu ul .nav-item:last-child {
               border-bottom: none; }
             .header_area .navbar .nav .nav-item.submenu ul .nav-item:hover .nav-link {
-              background: #fff;
+              background: #e45447;
               color: #fff; }
         @media (min-width: 992px) {
           .header_area .navbar .nav .nav-item.submenu:hover ul {
@@ -336,13 +336,18 @@ button:focus {
       background: #fff;
       margin: 0 15px; } }
   .banner-content .primary-btn {
-    background: #fff;
+    background: #e45447;
     border: 2px solid transparent;
     color: #fff; }
     .banner-content .primary-btn:hover {
       background: transparent;
+<<<<<<< HEAD
       border-color: #fff;
       color: #fff; }
+=======
+      border-color: #e45447;
+      color: #000; }
+>>>>>>> parent of bd78af0... Update style.css
   .banner-content h1 {
     color: #000;
     font-size: 60px;
@@ -562,7 +567,7 @@ button:focus {
       .social_details li a i {
         color: #000 !important; }
         .social_details li a i:hover {
-          color: #fff !important; }
+          color: #e45447 !important; }
     .social_details li:last-child {
       margin-right: 0px; }
 
@@ -585,8 +590,8 @@ button:focus {
   line-height: 34px;
   display: inline-block; }
   .blog_btn:hover {
-    background: #fff;
-    border-color: #fff;
+    background: #e45447;
+    border-color: #e45447;
     color: #fff; }
 
 .white_bg_btn {
@@ -605,7 +610,7 @@ button:focus {
   transition: all 0.4s ease 0s;
   border: none; }
   .white_bg_btn:hover {
-    background: #fff;
+    background: #e45447;
     color: #fff; }
 
 /* Causes Area css
@@ -622,7 +627,7 @@ button:focus {
     .causes_slider .owl-dots .owl-dot:last-child {
       margin-right: 0px; }
     .causes_slider .owl-dots .owl-dot.active {
-      background: #fff; }
+      background: #e45447; }
 
 .causes_item {
   background: #fff; }
@@ -638,7 +643,7 @@ button:focus {
       .causes_item .causes_img .c_parcent span {
         width: 70%;
         height: 3px;
-        background: #fff;
+        background: #e45447;
         position: absolute;
         left: 0px;
         bottom: 0px; }
@@ -647,7 +652,7 @@ button:focus {
           position: absolute;
           right: -10px;
           bottom: 0px;
-          background: #fff;
+          background: #e45447;
           color: #fff;
           padding: 0px 5px; }
   .causes_item .causes_text {
@@ -660,7 +665,7 @@ button:focus {
       margin-bottom: 15px;
       cursor: pointer; }
       .causes_item .causes_text h4:hover {
-        color: #fff; }
+        color: #e45447; }
     .causes_item .causes_text p {
       font-size: 14px;
       line-height: 24px;
@@ -669,11 +674,11 @@ button:focus {
       margin-bottom: 0px; }
   .causes_item .causes_bottom a {
     width: 50%;
-    border: 1px solid #fff;
+    border: 1px solid #e45447;
     text-align: center;
     float: left;
     line-height: 50px;
-    background: #fff;
+    background: #e45447;
     color: #fff;
     font-family: "Roboto", sans-serif;
     font-size: 14px;
@@ -718,7 +723,7 @@ button:focus {
   text-align: center;
   color: #222222; }
   .tags .tag_btn:before {
-    background: #fff; }
+    background: #e45447; }
   .tags .tag_btn + .tag_btn {
     margin-left: 2px; }
 
@@ -767,7 +772,7 @@ button:focus {
       width: 100%;
       height: 1px; }
   .categories_post:hover .categories_details {
-    background: #fff;
+    background: #e45447;
     opacity: .6; }
   .categories_post:hover h5 {
     color: #fff; }
@@ -790,7 +795,7 @@ button:focus {
       .blog_info .post_tag a:hover {
         color: #777777; }
       .blog_info .post_tag a.active {
-        color: #fff; }
+        color: #e45447; }
   .blog_info .blog_meta li a {
     font: 300 14px/20px "Roboto", sans-serif;
     color: #777777;
@@ -805,7 +810,7 @@ button:focus {
       line-height: 20px;
       vertical-align: middle; }
     .blog_info .blog_meta li a:hover {
-      color: #fff; }
+      color: #e45447; }
 
 .blog_post img {
   max-width: 100%; }
@@ -817,7 +822,7 @@ button:focus {
   -o-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s; }
   .blog_post .primary_btn:hover {
-    background: #fff;
+    background: #e45447;
     color: #fff; }
 
 .blog_details {
@@ -829,7 +834,7 @@ button:focus {
     font-weight: 600;
     transition: all 0.3s linear; }
     .blog_details h2:hover {
-      color: #fff; }
+      color: #e45447; }
   .blog_details p {
     margin-bottom: 26px; }
 
@@ -840,7 +845,7 @@ button:focus {
   .blog_right_sidebar .widget_title {
     font-size: 18px;
     line-height: 25px;
-    background: #fff;
+    background: #e45447;
     text-align: center;
     color: #fff;
     padding: 8px 0px;
@@ -856,7 +861,7 @@ button:focus {
     border-radius: 45px;
     z-index: 0;
     text-indent: 20px;
-    background: #fff; }
+    background: #e45447; }
     .blog_right_sidebar .search_widget .input-group .form-control.placeholder {
       color: #fff;
       text-transform: uppercase;
@@ -911,7 +916,7 @@ button:focus {
         .blog_right_sidebar .author_widget .social_icon a + a {
           margin-left: 20px; }
         .blog_right_sidebar .author_widget .social_icon a:hover {
-          color: #fff; }
+          color: #e45447; }
   .blog_right_sidebar .popular_post_widget .post_item .media-body {
     justify-content: center;
     align-self: center;
@@ -923,7 +928,7 @@ button:focus {
       margin-bottom: 4px;
       transition: all 0.3s linear; }
       .blog_right_sidebar .popular_post_widget .post_item .media-body h3:hover {
-        color: #fff; }
+        color: #e45447; }
     .blog_right_sidebar .popular_post_widget .post_item .media-body p {
       font-size: 12px;
       line-height: 21px;
@@ -943,9 +948,9 @@ button:focus {
     .blog_right_sidebar .post_category_widget .cat-list li + li {
       padding-top: 15px; }
     .blog_right_sidebar .post_category_widget .cat-list li:hover a {
-      color: #fff; }
+      color: #e45447; }
     .blog_right_sidebar .post_category_widget .cat-list li:hover {
-      border-color: #fff; }
+      border-color: #e45447; }
   .blog_right_sidebar .newsletter_widget {
     text-align: center; }
     .blog_right_sidebar .newsletter_widget .form-group {
@@ -980,7 +985,7 @@ button:focus {
         outline: none;
         box-shadow: none; }
     .blog_right_sidebar .newsletter_widget .bbtns {
-      background: #fff;
+      background: #e45447;
       color: #fff;
       font-size: 12px;
       line-height: 38px;
@@ -1002,7 +1007,7 @@ button:focus {
       color: #222222;
       font-size: 12px; }
       .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-        background: #fff;
+        background: #e45447;
         color: #fff; }
   .blog_right_sidebar .br {
     width: 100%;
@@ -1023,7 +1028,7 @@ button:focus {
   font-weight: 400; }
 
 .blog-pagination .page-item.active .page-link {
-  background: #fff;
+  background: #e45447;
   border-color: transparent;
   color: #fff; }
 
@@ -1046,7 +1051,7 @@ button:focus {
 .blog-pagination .page-link:hover {
   color: #fff;
   text-decoration: none;
-  background: #fff;
+  background: #e45447;
   border-color: #eee; }
 
 /*============ Start Blog Single Styles  =============*/
@@ -1061,7 +1066,7 @@ button:focus {
       font-size: 14px;
       transition: all 0.2s linear; }
       .single-post-area .social-links li a:hover {
-        color: #fff; }
+        color: #e45447; }
 .single-post-area .blog_details {
   padding-top: 26px; }
   .single-post-area .blog_details p {
@@ -1196,7 +1201,7 @@ button:focus {
     transition: all 0.4s ease 0s; }
     .comments-area .btn-reply:hover {
       border: transparent;
-      background: #fff;
+      background: #e45447;
       color: #fff; }
 
 .comment-form {
@@ -1272,7 +1277,7 @@ button:focus {
     top: 0;
     font-size: 20px;
     line-height: 24px;
-    color: #fff;
+    color: #e45447;
     font-weight: 600; }
   .contact_info .info_item h6 {
     font-size: 16px;
@@ -1314,10 +1319,10 @@ button:focus {
     .contact_form .form-group textarea.form-control {
       height: 134px; }
 .contact_form .primary-btn {
-  background: #fff;
+  background: #e45447;
   color: #fff;
   margin-top: 20px;
-  border: 2px solid #fff; }
+  border: 2px solid #e45447; }
   .contact_form .primary-btn:hover {
     color: #000;
     border: 2px solid #90acd1;
@@ -1350,7 +1355,7 @@ button:focus {
     .modal-message .modal-dialog .modal-content .modal-header h2 {
       display: block;
       text-align: center;
-      color: #fff;
+      color: #e45447;
       padding-bottom: 10px;
       font-family: "Roboto", sans-serif; }
     .modal-message .modal-dialog .modal-content .modal-header p {
@@ -1375,20 +1380,20 @@ button:focus {
     line-height: 26px; }
     .sample-text-area p b {
       font-weight: bold;
-      color: #fff; }
+      color: #e45447; }
     .sample-text-area p i {
-      color: #fff;
+      color: #e45447;
       font-style: italic; }
     .sample-text-area p sup {
-      color: #fff;
+      color: #e45447;
       font-style: italic; }
     .sample-text-area p sub {
-      color: #fff;
+      color: #e45447;
       font-style: italic; }
     .sample-text-area p del {
-      color: #fff; }
+      color: #e45447; }
     .sample-text-area p u {
-      color: #fff; }
+      color: #e45447; }
 
 /*============== End Elements Area css ================*/
 /*==============Elements Button Area css ================*/
@@ -1482,10 +1487,10 @@ button:focus {
 
 .link-border {
   background: transparent;
-  border: 1px solid #fff;
-  color: #fff; }
+  border: 1px solid #e45447;
+  color: #e45447; }
   .link-border:before {
-    background: #fff; }
+    background: #e45447; }
 
 .radius {
   border-radius: 3px; }
@@ -2623,7 +2628,7 @@ h6 {
       .testimonial_area .testimonial_logos {
         display: none; } }
   .testimonial_area .active_testimonial .owl-dots {
-    background: #fff;
+    background: #e45447;
     height: 25px;
     width: 100px;
     position: absolute;
@@ -2742,7 +2747,7 @@ h6 {
     text-transform: uppercase;
     background: #186c84; }
     .newsletter_form .navbar-form .genric-btn:hover {
-      background-color: #fff;
+      background-color: #e45447;
       color: #ffffff; }
 
 /* End Newsletter Area css
@@ -2761,7 +2766,7 @@ h6 {
     margin-bottom: 23px; }
 
   .header_area .navbar {
-    background: #fff; }
+    background: #e45447; }
 
   .navbar-toggler[aria-expanded="false"] span:nth-child(2) {
     opacity: 1; }
@@ -2870,14 +2875,14 @@ h6 {
   .social_widget .list li:last-child {
     margin-right: 0px; }
   .social_widget .list li:hover a {
-    color: #fff; }
+    color: #e45447; }
 
 .copyright {
   margin-top: 40px; }
   .copyright p {
     color: #000; }
     .copyright p a {
-      color: #fff; }
+      color: #e45447; }
 
 /* End Footer Area css
 ============================================================================================ */
