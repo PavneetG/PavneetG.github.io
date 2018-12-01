@@ -107,7 +107,7 @@ button:focus {
   .main-title h1 {
     font-family: "Poppins", sans-serif;
     font-size: 48px;
-    color: #222222;
+    color: #fff;
     font-weight: 700;
     margin-bottom: 20px;
     padding-bottom: 15px;
@@ -343,11 +343,15 @@ button:focus {
       background: transparent;
 <<<<<<< HEAD
       border-color: #fff;
+<<<<<<< HEAD
       color: #fff; }
 =======
       border-color: #e45447;
       color: #000; }
 >>>>>>> parent of bd78af0... Update style.css
+=======
+      color: #000; }
+>>>>>>> parent of e9f9687... Update style.css
   .banner-content h1 {
     color: #000;
     font-size: 60px;
@@ -360,7 +364,7 @@ button:focus {
     font-size: 30px;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
-    color: #ff;
+    color: #000;
     margin-bottom: 30px; }
     @media (max-width: 991px) {
       .banner-content h3 {
