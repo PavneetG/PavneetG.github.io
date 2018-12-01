@@ -446,7 +446,7 @@ button:focus {
       .projects_fillter .filter li:last-child {
         margin-right: 0px; }
       .projects_fillter .filter li.active, .projects_fillter .filter li:hover {
-        color: #e45447; }
+        color: #fff; }
 
 .projects_inner {
   margin-bottom: -30px; }
